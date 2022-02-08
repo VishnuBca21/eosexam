@@ -1,0 +1,172 @@
+body{
+    font-family: "Montserrat";
+    color: #363636;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.7;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+nav{
+    margin-top: 1%;
+    position: sticky!important;;
+    top:0;
+}
+
+.nav-item{
+    padding: 0 1.2em;
+}
+.nav-item a {
+    font-family: "Montserrat"!important;
+    color: #363636!important;
+    font-weight: 400!important;
+}
+
+.background{
+    background-image: url(http://jevelin.shufflehound.com/medical/wp-content/uploads/sites/23/2018/09/lady.jpg?id=17) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    min-height: 100vh;
+}
+
+.heading-container{
+    margin-left: 4em;
+    margin-top: 5em;
+}
+
+h2 span{
+    text-align: left;
+}
+
+@media (max-width: 1024px) {
+    #heading-1MhWLVrTk7 .sh-heading-content {
+        font-size: 3em!important;
+    }}
+#heading-1MhWLVrTk7 .sh-heading-content {
+    font-size: 3em;
+    line-height: 48px!important;
+    font-weight: 700!important;} 
+
+    @media (max-width: 1024px) {
+        #heading-LYZx14Jd2I .sh-heading-content {
+            font-size: 13px!important;
+        }
+    }
+    #heading-LYZx14Jd2I .sh-heading-content {
+        font-size: 12px;
+        font-weight: 400!important;
+        color: 363636;
+    }
+    #heading-LYZx14Jd2I .sh-heading-content,#heading-LYZx14Jd2I .sh-heading-additional-text {
+        font-family: 'Montserrat'!important;
+    }
+
+        @media (max-width: 1025px) {
+            .sh-empty-space-TJKylgXF7m {
+                height: 30px!important;
+            }
+        }
+.vc_column_4209807:not(.vc_parallax):not(.jarallax) {
+    overflow: center!important;
+    position: relative; 
+}
+
+.row{
+    background-color: #dffbfcd5 ;
+}
+.cards{
+    -webkit-box-pack: center;
+    padding-top: 80px !important;
+    padding-right: 40px !important;
+    padding-bottom: 60px !important;
+    padding-left: 40px !important;
+    background-color: #b9f7f9 !important;
+    border-radius: 10px !important;
+}
+
+.middle{
+    position: relative;
+    top: -20px;
+    z-index: 5;
+}
+
+.icon{
+    color: blue;
+    font-size: 3em;
+}
+
+
+
+.card-subheading{
+    font-size: 2em;
+}
+
+.cards > div{
+    margin-bottom: 10px;
+} 
+
+footer{
+    background-color: rgba(0, 0, 0, 0.514);
+    padding: 50px;
+    text-align: center;
+    width: 100%;
+}
+
+/* About page */
+.image-part{
+    padding-top: 50px;
+}
+
+.image-part img{
+    height: auto!important;
+    text-align: left;
+    width: 100%!important;
+
+}
+
+.about-heading{
+    font-weight: 800;
+}
+.about-subheading{
+    font-size: 2.5em;
+}
+.about-declaration{
+    color: #57b8f0e0;
+}
+
+button a{
+    text-decoration: none;
+    color: #fff;
+}
+
+video{
+    width: 100%;
+}
+
+audio{
+    color:#363636;
+    width: 200px;
+    
+}
+
+.button{
+    margin-top:20px ;
+}
+/* Department */
+
+.image
+
+.dep-image{
+    width: 83px;
+    height: 50px;
+}
+
+.dep-heading{
+    font-size: 1.5rem;
+}
+
+.dep.para{
+    font-size: 1rem;
+}
